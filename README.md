@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **knandkar007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b9isdHqpG9Sjm5OPGKbZxsUElP3p_hoe/view?usp=sharing](https://drive.google.com/file/d/1b9isdHqpG9Sjm5OPGKbZxsUElP3p_hoe/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/16JZuF92DjesLeNpJG9BuD_7UtPImrg6k/view?usp=sharing)
 
 - ⚡ Fun fact **I am introvert.**
 
