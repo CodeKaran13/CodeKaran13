@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on Unreal project [Shooter](https://github.com/CodeKaran13/Udemy_UltimateShooter)
 
-- 🌱 I’m currently learning Unreal Engine (C++) **Unreal Engine**
+- 🌱 I’m currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CodeKaran13](https://github.com/CodeKaran13)
+- 👨‍💻 All of my projects are available at [github](https://github.com/CodeKaran13?tab=repositories)
 
 - 💬 Ask me about **coding, games**
 
-- 📫 How to reach me **knandkar007@gmail.com**
+- 📫 How to reach me [email](mailto:knandkar007@gmail.com)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/16JZuF92DjesLeNpJG9BuD_7UtPImrg6k/view?usp=sharing)
 
