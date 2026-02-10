@@ -1,13 +1,15 @@
 ![logo](Assets/Images/cover-photo.png)
 <h1 align="center">Hi 👋, I'm Karan Nandkar</h1>
-<h3 align="center">Game Developer | Unity & Unreal Engine | Gameplay • Systems • Mobile & PC</h3>
+<h3 align="center">Gameplay Engineer | Unity & Unreal Engine | Gameplay Systems • Performance • Mobile & PC</h3>
 
 ### 🚀 About Me
-I’m a game developer who takes ownership of gameplay systems from concept to polish. I focus on building clean, scalable code while keeping the player experience at the center of every decision.
+I’m a gameplay-focused software engineer with **8+ years of experience** building and shipping games across **Unity and Unreal Engine**.
 
-I enjoy collaborating with designers and artists, breaking down complex problems and guiding features from prototype to production. Beyond implementation, I actively think about performance, maintainability and long-term project health.
+I specialize in **gameplay systems, in-game UI, and performance-critical features**, with a strong focus on clean architecture, maintainability, and player experience. I enjoy owning features end to end — from early prototypes to production-ready, optimized systems.
 
-Currently, I’m strengthening my Unreal Engine expertise while continuing to build and refine complete game systems that are fun, reliable and ready to scale.
+My work often involves breaking down complex gameplay problems, collaborating closely with designers and artists, and ensuring systems scale well as projects grow.
+
+I’m currently deepening my **Unreal Engine 5 and C++** expertise while continuing to ship complete, production-ready gameplay systems.
 
 ### 🔍 Current Focus & Contact
 - 🔭 Currently working on an Unreal Engine project:  
@@ -15,7 +17,7 @@ Currently, I’m strengthening my Unreal Engine expertise while continuing to bu
 
 - 💬 I can help with **gameplay programming, Unity/Unreal workflows, and performance optimization**
 
-- 📫 Reach me via [**Email**](mailto:knandkar007@gmail.com)
+- 📫 Reach me via **Email**: knandkar007@gmail.com
 
 - 📄 View my professional experience:  
   👉 [**Resume**](https://drive.google.com/file/d/1tLKF8Ygw_jDyMimhn4KnoMNT2IfTzbmF/view?usp=sharing)
