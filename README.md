@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/ynDjqDr5/game-dev-image.png)
+![logo](Assets/Images/cover-photo.png)
 <h1 align="center">Hi 👋, I'm Karan Nandkar</h1>
 <h3 align="center">Game Developer | Unity & Unreal Engine | Gameplay • Systems • Mobile & PC</h3>
 
