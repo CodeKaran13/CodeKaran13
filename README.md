@@ -44,8 +44,9 @@ I’m currently deepening my **Unreal Engine 5 and C++** expertise while continu
 **Platforms:** Mobile, PC
 
 ### 🎯 Currently Looking For
-- Game Programmer roles (Unity / Unreal)
-- Gameplay or Systems-focused teams
+- Gameplay Engineer / Game Programmer roles
+- Unity or Unreal Engine teams
+- Gameplay or systems-focused work
 - Remote or global opportunities
 
 <!--
