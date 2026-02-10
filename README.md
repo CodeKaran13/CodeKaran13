@@ -18,7 +18,7 @@ Currently, I’m strengthening my Unreal Engine expertise while continuing to bu
 - 📫 Reach me via [**Email**](mailto:knandkar007@gmail.com)
 
 - 📄 View my professional experience:  
-  👉 [**Resume**](https://drive.google.com/file/d/1wMfMluTKWXcjsL1ynBvyeVVSP77zo65-/view)
+  👉 [**Resume**](https://drive.google.com/file/d/1tLKF8Ygw_jDyMimhn4KnoMNT2IfTzbmF/view?usp=sharing)
 
 - ⚡ Fun fact: I enjoy refactoring gameplay systems as much as building new ones.
 
