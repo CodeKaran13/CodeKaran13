@@ -27,7 +27,7 @@ I’m currently deepening my **Unreal Engine 5 and C++** expertise while continu
 ### 🕹️ Featured Projects
 - 🔫 **Ultimate Shooter (Unreal Engine)**  
   FPS mechanics, weapon systems and core gameplay loop  
-  👉 [Github](https://github.com/CodeKaran13/UltimateShooter)
+  👉 [Repo](https://github.com/CodeKaran13/UltimateShooter)
 
 - 🌱 **EcoRun (Unity | Mobile)**  
   Endless runner with environmental mechanics, oxygen system, collectibles, and optimization  
