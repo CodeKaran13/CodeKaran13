@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I’m a gameplay-focused software engineer with **8+ years of experience** building and shipping games across **Unity and Unreal Engine**.
 
-I specialize in **gameplay systems, in-game UI, and performance-critical features**, with a strong focus on clean architecture, maintainability, and player experience. I enjoy owning features end to end — from early prototypes to production-ready, optimized systems.
+I specialize in **gameplay systems, in-game UI, and performance-critical features**, with a strong focus on clean architecture, maintainability, and player experience. I enjoy owning features end to end. From early prototypes to production-ready, optimized systems.
 
 My work often involves breaking down complex gameplay problems, collaborating closely with designers and artists, and ensuring systems scale well as projects grow.
 
@@ -20,7 +20,7 @@ I’m currently deepening my **Unreal Engine 5 and C++** expertise while continu
 - 📫 Reach me via **Email**: knandkar007@gmail.com
 
 - 📄 View my professional experience:  
-  👉 [**Resume**](https://drive.google.com/file/d/1tLKF8Ygw_jDyMimhn4KnoMNT2IfTzbmF/view?usp=sharing)
+  👉 [**Resume**](https://drive.google.com/file/d/1sYpwRSlJoBmiAVMc5Stjkq8n-xxU7DcW/view?usp=sharing)
 
 - ⚡ Fun fact: I enjoy refactoring gameplay systems as much as building new ones.
 
