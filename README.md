@@ -18,7 +18,7 @@ I’m currently deepening my **Unreal Engine 5 and C++** expertise while continu
 
 - 📫 Reach me via **Email**: knandkar007@gmail.com
 
-- 📄 View my professional experience:  👉 [**Resume**](https://drive.google.com/file/d/1sYpwRSlJoBmiAVMc5Stjkq8n-xxU7DcW/view?usp=sharing)
+- 📄 View my professional experience:  👉 [**Resume**](https://drive.google.com/file/d/1UNqWIGuG_kkl4zOjJ5lG_ofuK0nDtS8z/view?usp=drive_link)
 
 - ⚡ Fun fact: I enjoy refactoring gameplay systems as much as building new ones.
 
