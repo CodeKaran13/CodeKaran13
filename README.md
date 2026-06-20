@@ -12,7 +12,7 @@ My work often involves breaking down complex gameplay problems, collaborating cl
 I’m currently deepening my **Unreal Engine 5 and C++** expertise while continuing to ship complete, production-ready gameplay systems.
 
 ### 🔍 Current Focus & Contact
-- 🔭 Currently working on an Unreal Engine project:  👉 [**Yaaro Ki Rasoi**](https://play.google.com/store/apps/details?id=com.p99softgamesstudio.yaarokirasoi)
+- 🔭 Currently working on an Unreal Engine project:  👉 Rogue Extraction (Top-Down Multiplayer Shooter)
 
 - 💬 I can help with **gameplay programming, Unity/Unreal workflows, and performance optimization**
 
